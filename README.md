@@ -36,7 +36,7 @@ If it does not work, try executing the script via the terminal `./randomCoffee.p
 5. Now copy the list you just pasted into the message field and paste it into the terminal and hit ENTER.
 6. The terminal outputs the number of members (useful for double checking if you missed someone when copying the usernames) and the list of matches
    ```
-   Edit Members:
+   Enter Members:
    R, A, T, P, SP, TA, G
    Number of Members 7
 
